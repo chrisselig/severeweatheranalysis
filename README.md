@@ -1,2 +1,2 @@
 # severeweatheranalysis
-Storm and Severe Weather Analysis
+Storm and Severe Weather
